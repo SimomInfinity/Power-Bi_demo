@@ -42,7 +42,7 @@
 
 | 銷售總覽 | 客戶分析 | 產品排行 |
 | :---: | :---: | :---: |
-| ![預覽圖1](img/dashboard1.jpg) | ![預覽圖2](img/dashboard2.jpg) | ![預覽圖3](img/dashboard3.jpg) |
+| ![預覽圖1](img/dashboard1.jpg) | ![預覽圖2](img/dashboard2.png) | ![預覽圖3](img/dashboard3.png) |
 
 ---
 
